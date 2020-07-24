@@ -1,5 +1,5 @@
 <template>
   <div>
-    <h1 v-t="'hello'" />
+    <h1>KED</h1>
   </div>
 </template>
